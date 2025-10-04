@@ -1,6 +1,14 @@
 
 **Dataset:** https://www.kaggle.com/datasets/greedyfornothing/multiclass-semantic-ct-scan-liver-tumor
 
+## Folder
+**masks/ :** It Stores Generated Mask Image for input image.
+**reports/ :** It stores 7-Page PDF report.
+**static/:** It stores logo and placeholder images.
+**templates/:** Frontend html file.
+**uploads/:** Uploaded Input image
+
+
 # HOME
 <img width="1918" height="887" alt="Screenshot 2025-10-05 064410" src="https://github.com/user-attachments/assets/7b5ac44b-30f0-477d-bd8b-004f6a0e60b5" />
 
