@@ -3,10 +3,14 @@
 
 ## Folder
 **masks/ :** It Stores Generated Mask Image for input image.
+
 **reports/ :** It stores 7-Page PDF report.
+
 **static/:** It stores logo and placeholder images.
+
 **templates/:** Frontend html file.
-**uploads/:** Uploaded Input image
+
+**uploads/:** Uploaded Input image.
 
 
 # HOME
