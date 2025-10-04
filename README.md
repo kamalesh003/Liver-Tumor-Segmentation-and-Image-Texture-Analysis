@@ -20,7 +20,7 @@
 
 <img width="1920" height="885" alt="Screenshot 2025-10-05 064535" src="https://github.com/user-attachments/assets/b8c3f280-2378-46d3-b1f3-5c39ea3597a0" />
 
-# RESULT PAGE (Tumor: Size of White Spot in Grey Mask Image )
+# RESULT PAGE (Tumor Presence: Size of White Spot in Grey Mask Image )
 <img width="1920" height="873" alt="{063F4A35-3380-4F09-B87B-739A8D518530}" src="https://github.com/user-attachments/assets/32760c1a-b5ac-4903-badc-2a9d6fa52c36" />
 
 # VIEW REPORT
