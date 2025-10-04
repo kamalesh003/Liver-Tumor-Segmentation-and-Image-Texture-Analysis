@@ -1,4 +1,6 @@
 
+**Dataset:** https://www.kaggle.com/datasets/greedyfornothing/multiclass-semantic-ct-scan-liver-tumor
+
 # HOME
 <img width="1918" height="887" alt="Screenshot 2025-10-05 064410" src="https://github.com/user-attachments/assets/7b5ac44b-30f0-477d-bd8b-004f6a0e60b5" />
 
